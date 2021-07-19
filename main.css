@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito");
 @import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@v2
 :root {
   --jumping-gif: url("https://i.imgur.com/dCd49s0.gif");
   --background-tertiary-alt: #FFC7D4;
@@ -617,7 +618,7 @@
   background-color: var(--background-primary);
 }
 :root .membersWrap-2h-GB4::after {
-  content: "";
+  content: "Lista osób";
   position: absolute;
   bottom: -35px;
   z-index: 1;
