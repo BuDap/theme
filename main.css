@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito");
 @import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
-@v3
+@v4
 :root {
   --jumping-gif: url("https://i.imgur.com/dCd49s0.gif");
   --background-tertiary-alt: #FFC7D4;
@@ -1886,7 +1886,7 @@
   }
 
   .container-2lgZY8::after {
-    content: "Stay comfy ❤";
+    content: "Zachowaj wygodę ❤";
     position: fixed;
     top: 220px;
     bottom: 85px;
