@@ -618,7 +618,7 @@
   background-color: var(--background-primary);
 }
 :root .membersWrap-2h-GB4::after {
-  content: "Lista osób";
+  content: "";
   position: absolute;
   bottom: -35px;
   z-index: 1;
